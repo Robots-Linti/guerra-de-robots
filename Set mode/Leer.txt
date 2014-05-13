@@ -1,0 +1,9 @@
+Esta parte del programa falto incluirla en el servidor asi que hay que iniciarla por separado.
+
+Una ves colocada la camara, y colocado los robots con sus respectivas etiquetas iniciamos el programa "visual.py"
+
+Mover las barras asta llegar a visualizar solo 1 de las etiquetas y escrivir los rangos HSV minimos y HSV maximos
+
+Una ves echo esto con todos los robots ir a la carpeta server y abrir el codigo "Robot.py"
+
+Cambiar los rangos HSV correspondientes a cada robot.
